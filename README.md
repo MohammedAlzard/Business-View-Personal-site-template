@@ -12,6 +12,15 @@
 Business View Personal site template,
 You can develop it and your edits will gladly be approved.
 
+## Images Project
+
+<p align="center"><img src="{{ asset('/images/Home.PNG') }}"></p>
+<p align="center"><img src="{{ asset('/images/About-Me.PNG') }}"></p>
+<p align="center"><img src="{{ asset('/images/Resume.PNG') }}"></p>
+<p align="center"><img src="{{ asset('/images/Portfolio.PNG') }}"></p>
+<p align="center"><img src="{{ asset('/images/Contact.PNG') }}"></p>
+<p align="center"><img src="{{ asset('/images/Dashboard.PNG') }}"></p>
+
 ## Run
 
 -   composer install
@@ -25,4 +34,4 @@ You can develop it and your edits will gladly be approved.
 -   [FB: Mohammed A. Alzard](https://www.facebook.com/malzard96).
 -   [TW: Mohammed A. Alzard](https://twitter.com/malzard96).
 -   [LN: Mohammed A. Alzard](https://www.linkedin.com/in/mohammedalzard/).
--   [LN: m.alzard@gmail.com](mail:m.alzard@gmail.com).
+-   [Gmail: m.alzard@gmail.com](mail:m.alzard@gmail.com).
