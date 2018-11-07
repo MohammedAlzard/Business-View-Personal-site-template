@@ -14,12 +14,12 @@ You can develop it and your edits will gladly be approved.
 
 ## Project Images with Dashboard
 
-<p align="center"><img src="https://raw.githubusercontent.com/MohammedAlzard/Business-View-Personal-site-template/master/public/images/Home.PNG') }}"></p>
-<p align="center"><img src="https://raw.githubusercontent.com/MohammedAlzard/Business-View-Personal-site-template/master/public/images/About-Me.PNG') }}"></p>
-<p align="center"><img src="https://raw.githubusercontent.com/MohammedAlzard/Business-View-Personal-site-template/master/public/images/Resume.PNG') }}"></p>
-<p align="center"><img src="https://raw.githubusercontent.com/MohammedAlzard/Business-View-Personal-site-template/master/public/images/Portfolio.PNG') }}"></p>
-<p align="center"><img src="https://raw.githubusercontent.com/MohammedAlzard/Business-View-Personal-site-template/master/public/images/Contact.PNG') }}"></p>
-<p align="center"><img src="https://raw.githubusercontent.com/MohammedAlzard/Business-View-Personal-site-template/master/public/images/Dashboard.PNG') }}"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/MohammedAlzard/Business-View-Personal-site-template/master/public/images/Home.PNG"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/MohammedAlzard/Business-View-Personal-site-template/master/public/images/About-Me.PNG"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/MohammedAlzard/Business-View-Personal-site-template/master/public/images/Resume.PNG"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/MohammedAlzard/Business-View-Personal-site-template/master/public/images/Portfolio.PNG"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/MohammedAlzard/Business-View-Personal-site-template/master/public/images/Contact.PNG"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/MohammedAlzard/Business-View-Personal-site-template/master/public/images/Dashboard.PNG"></p>
 
 ## Run
 
