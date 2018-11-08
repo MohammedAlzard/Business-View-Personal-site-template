@@ -30,10 +30,10 @@ You can develop it and your edits will gladly be approved.
 -   php artisan serve
 
 ##
-http://127.0.0.1:8000
-http://127.0.0.1:8000/login
-email: mm@mm.mm
-password: 123123
+-   http://127.0.0.1:8000
+-   http://127.0.0.1:8000/login
+-   email: mm@mm.mm
+-   password: 123123
 ##
 
 -   [FB: Mohammed A. Alzard](https://www.facebook.com/malzard96).
