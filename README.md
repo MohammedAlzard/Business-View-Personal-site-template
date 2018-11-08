@@ -34,4 +34,4 @@ You can develop it and your edits will gladly be approved.
 -   [FB: Mohammed A. Alzard](https://www.facebook.com/malzard96).
 -   [TW: Mohammed A. Alzard](https://twitter.com/malzard96).
 -   [LN: Mohammed A. Alzard](https://www.linkedin.com/in/mohammedalzard/).
--   [Gmail: m.alzard@gmail.com](mail:m.alzard@gmail.com).
+-   [Gmail: dev.alzard@gmail.com](mail:m.alzard@gmail.com).
