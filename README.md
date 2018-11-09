@@ -30,8 +30,13 @@ You can develop it and your edits will gladly be approved.
 -   php artisan serve
 
 ##
+-   http://127.0.0.1:8000
+-   http://127.0.0.1:8000/login
+-   email: mm@mm.mm
+-   password: 123123
+##
 
 -   [FB: Mohammed A. Alzard](https://www.facebook.com/malzard96).
 -   [TW: Mohammed A. Alzard](https://twitter.com/malzard96).
 -   [LN: Mohammed A. Alzard](https://www.linkedin.com/in/mohammedalzard/).
--   [Gmail: m.alzard@gmail.com](mail:m.alzard@gmail.com).
+-   [Gmail: dev.alzard@gmail.com](mail:m.alzard@gmail.com).
